@@ -1,0 +1,27 @@
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250">
+    <!-- Background -->
+    <rect width="800" height="250" fill="#0d1117" rx="10"/>
+    <rect width="800" height="250" fill="url(#grid)" rx="10"/>
+    
+    <!-- Definitions -->
+    <defs>
+        <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/>
+        </pattern>
+        <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#2f81f7;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Decorative Elements -->
+    <circle cx="700" cy="50" r="100" fill="#2f81f7" opacity="0.05" filter="blur(20px)" />
+    <circle cx="100" cy="200" r="120" fill="#58a6ff" opacity="0.05" filter="blur(30px)" />
+    
+    <!-- Text Content -->
+    <text x="400" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" font-size="46" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">Benjamin Mwambakulu</text>
+    
+    <text x="400" y="155" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e" font-weight="500" text-anchor="middle">Full Stack Developer • Mobile Engineer • Backend Architect</text>
+    
+    <text x="400" y="195" font-family="monospace" font-size="14" fill="#484f58" text-anchor="middle">&lt;Building Scalable Solutions /&gt;</text>
+</svg>
