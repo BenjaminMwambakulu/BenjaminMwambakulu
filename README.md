@@ -2,16 +2,6 @@
   <img src="./assets/banner.svg" alt="Benjamin Mwambakulu" width="100%" />
 </div>
 
-<div align="center">
-  <br />
-  <a href="#about-me">About</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#skills--tech-stack">Skills</a> •
-  <a href="#architecture--methodology">Architecture</a> •
-  <a href="#contact">Contact</a>
-  <br /><br />
-</div>
-
 ## <img src="./assets/terminal.svg" width="24" height="24" align="center" /> About Me
 
 I am a **Full Stack Developer, Mobile, and Backend Engineer** based in Malawi, currently pursuing a degree in Business Information Technology. I focus on building resilient, scalable systems that solve complex, real-world problems. 
