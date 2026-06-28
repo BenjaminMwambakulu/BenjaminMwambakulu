@@ -39,23 +39,19 @@ Whether it's orchestrating backend logic with Laravel and Node.js or crafting fl
 - **Stack:** Laravel, PostgreSQL, React, Flutter, USSD integration
 - **Features:** Real-time seat allocation, payment gateways, QR check-in, passenger manifest generation.
 
-### 2. Portfolio Website
-*High-end interactive web experience.*
-- **Stack:** React, Next.js, Tailwind CSS, Framer Motion
-- **Features:** Scroll-driven animations, parallax effects, dynamic responsive design.
+### 2. Records Management System
+*Records management system for MUST CSIT Society. Worked as a Backend Engineer.*
+- **Stack:** Laravel, PostgreSQL, LogoTo Auth
+- **Features:** Records management, Membership management, Event management, 
 
-### 3. Analytics Dashboard
-*Business intelligence tailored for operational insights.*
-- **Stack:** Power BI, SQL, Python
-- **Features:** Key Performance Indicators (KPIs) tracking, utilization metrics, automated reporting.
+### 3. Portfolio Website
+*High-end interactive web experience.*
+- **Stack:** React, Tailwind CSS, Framer Motion
+- **Features:** Scroll-driven animations, parallax effects, dynamic responsive design.
 
 ---
 
 ## 🏗 Architecture & Methodology
-
-<div align="center">
-  <img src="./assets/architecture.svg" alt="System Architecture Diagram" width="100%" />
-</div>
 
 I prioritize a robust SDLC involving:
 - **Clean Architecture:** Separation of concerns, repository patterns, and scalable micro-services when necessary.
@@ -65,8 +61,6 @@ I prioritize a robust SDLC involving:
 ---
 
 ## 📊 GitHub Analytics
-
-*(Stats dynamically updated via GitHub Actions)*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BenjaminMwambakulu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -78,8 +72,9 @@ I prioritize a robust SDLC involving:
 ## 💬 Contact
 
 Let's discuss architecture, performance optimization, or your next big idea.
-
-- 📧 **Email:** [hello@example.com] *(Replace with actual)*
-- 🔗 **LinkedIn:** [Benjamin Mwambakulu] *(Replace with actual link)*
+- 🔗 **LinkedIn:** [Benjamin Mwambakulu](https://www.linkedin.com/in/benjamin-mwambakulu-0a9a2237a)
+- 🐙 **GitHub:** [@BenjaminMwambakulu](https://github.com/BenjaminMwambakulu)
+- 📸 **Instagram:** [@mwambakulubenjamin](https://www.instagram.com/mwambakulubenjamin/)
+- 📘 **Facebook:** [Benjamin Mwambakulu](https://web.facebook.com/profile.php?id=100076844325461)
 
 > *"Simplicity is a prerequisite for reliability." — Edsger W. Dijkstra*
